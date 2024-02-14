@@ -1,0 +1,29 @@
+/* Estilo personalizado para el título de la tabla */
+.table-title {
+    color: #6c757d; /* Gris */
+    text-align: center;
+}
+/* Estilo personalizado para la cabecera */
+.table-header {
+    background-color: #6c757d; /* Gris */
+    color: white;
+    border-radius: 10px;
+}
+/* Estilo personalizado para el cuerpo de la tabla */
+.table-body {
+    background-color: #e9ecef; /* Azul clarito */
+}
+/* Estilo personalizado para la línea final de la tabla */
+.table-border-bottom {
+    border-bottom: 1px solid #6c757d; /* Gris */
+}
+.custom-form {
+    background-color: #e9ecef;
+    border: 3px solid #ccc;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 50px;
+}
+.custom-form .form-label {
+    text-align: center;
+}
